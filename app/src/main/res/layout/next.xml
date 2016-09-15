@@ -6,7 +6,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Prev"
+        android:text="First"
         android:id="@+id/button2"
+        android:onClick="firstPage"
         android:layout_gravity="center_horizontal" />
 </LinearLayout>
